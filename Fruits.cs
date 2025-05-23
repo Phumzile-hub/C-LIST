@@ -28,8 +28,8 @@ public class ItemCounter
     
     public static void Main()
     {
-        List<string> sampleList = new List<string> { "blueberry", "banana", "blueberry", "orange", "banana", "blueberry" };
-        CountItems(sampleList);
+        List<string> fruitList = new List<string> { "blueberry", "banana", "blueberry", "orange", "banana", "blueberry" };
+        CountItems(fruitList);
     }
 }
 
